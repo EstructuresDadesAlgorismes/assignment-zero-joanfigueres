@@ -1,7 +1,7 @@
 # Assignment 0
 ##What do I need to do?
 Implement the method "quantSexe" of the given class `MainaderiaList.java`
-Observe that this class implements the **interface** `` Mainaderia.java`
+Observe that this class implements the **interface** `Mainaderia.java`
 
 Eclipse provides a window where you can see a list of all `//TODO` comments. For Eclipse to show the list: Window --> Show View --> Tasks (do not confuse with Task List)
 
